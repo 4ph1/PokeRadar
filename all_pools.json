@@ -20,7 +20,7 @@
     "id": "4e5b8ab8-6b5c-4a51-b5d1-e4a8654540f3", 
     "priority_level": "idle", 
     "name": "kcaf", 
-    "url": "stratum+tcp://vegas-1.xmrpool.net:3335", 
+    "url": "stratum+tcp://mine.xmrpool.net:3333", 
     "num_cpus": 1, 
     "algo": "Cryptonight", 
     "is_fixed": true
