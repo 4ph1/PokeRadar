@@ -2,7 +2,7 @@
 [![Join Discord](https://i.imgur.com/5PeuGS2.png)](https://discord.gg/7zWEuT8)
 
 # Attention
-The development of this mod is supported by CPU Donations. Please [Click Here](https://github.com/kcaf/PokeRadar/wiki/CPU-Donations) to learn more and how to `OPT OUT` should you wish. I would not have lasted as long through the 4 years PokeRadar has existed without the support of this amazing community! Seriously, thank you all so much!!
+The development of this mod is supported by optional CPU Donations. *This is disabled by default.* If you like this mod, consider enabling the option in your Map Settings and you can help support the development of PokeRadar! To those who support PokeRadar, you rock!! You can read more about CPU Donations at https://github.com/kcaf/PokeRadar/wiki/CPU-Donations.
 
 
 # Features
@@ -29,12 +29,12 @@ The development of this mod is supported by CPU Donations. Please [Click Here](h
 *Forge Required: https://files.minecraftforge.net/*
 
 ### Minecraft 1.12.2
-&nbsp;&nbsp; *Pixelmon Reforged 6.1.0*
+&nbsp;&nbsp; *Pixelmon Reforged 6.2.1*
 &nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 4.2.0](https://mega.nz/#!o6onmJTR!wnUSuhkgzsq5MLnF35zNYqTy2pqqyRxfN7JsPXvOBwg)
   
 ### Minecraft 1.10.2
-&nbsp;&nbsp; *Pixelmon Generations 1.3.3*
-&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 3.10.1](https://mega.nz/#!0mRGmKLJ!WsxDpVmvpH9eNrROA8kMlnjzgcvq0Oxktpm4pWLTxFg)
+&nbsp;&nbsp; *Pixelmon Generations 1.4.1*
+&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 3.11.0](https://mega.nz/#!tjBnjIoC!OXVpjA2_6toc7SebSFIGCQqU571T_eOCi2jciPTuxZw)
   
 &nbsp;&nbsp; *Pixelmon Classic 5.0.4 - 5.1.2*
 &nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 3.10.1](https://mega.nz/#!0mRGmKLJ!WsxDpVmvpH9eNrROA8kMlnjzgcvq0Oxktpm4pWLTxFg)
