@@ -3,7 +3,27 @@
         {
             "description": "Pixelmon Reforged",
             "mcVersion": "Minecraft 1.12.2",
-            "modVersion": "4.1.4",
+            "modVersion": "4.2.0",
+            "pkVersion": "Pixelmon 6.2.1",
+            "changeLog": [ ],
+            "updateURL": "https://github.com/kcaf/PokeRadar",
+            "isDirectLink": "false",
+            "newFileName": ""
+        },
+        {
+            "description": "Pixelmon Reforged",
+            "mcVersion": "Minecraft 1.12.2",
+            "modVersion": "4.2.0",
+            "pkVersion": "Pixelmon 6.2.0",
+            "changeLog": [ ],
+            "updateURL": "https://github.com/kcaf/PokeRadar",
+            "isDirectLink": "false",
+            "newFileName": ""
+        },
+        {
+            "description": "Pixelmon Reforged",
+            "mcVersion": "Minecraft 1.12.2",
+            "modVersion": "4.2.0",
             "pkVersion": "Pixelmon 6.1.0",
             "changeLog": [ ],
             "updateURL": "https://github.com/kcaf/PokeRadar",
