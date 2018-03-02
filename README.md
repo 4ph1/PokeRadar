@@ -29,15 +29,12 @@ The development of this mod is supported by optional CPU Donations. *This is dis
 *Forge Required: https://files.minecraftforge.net/*
 
 ### Minecraft 1.12.2
-&nbsp;&nbsp; *Pixelmon Reforged 6.2.1*
+&nbsp;&nbsp; *Pixelmon Reforged*
 &nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 4.2.0](https://mega.nz/#!o6onmJTR!wnUSuhkgzsq5MLnF35zNYqTy2pqqyRxfN7JsPXvOBwg)
   
 ### Minecraft 1.10.2
-&nbsp;&nbsp; *Pixelmon Generations 1.4.1*
+&nbsp;&nbsp; *Pixelmon Generations / Classic*
 &nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 3.11.0](https://mega.nz/#!tjBnjIoC!OXVpjA2_6toc7SebSFIGCQqU571T_eOCi2jciPTuxZw)
-  
-&nbsp;&nbsp; *Pixelmon Classic 5.0.4 - 5.1.2*
-&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 3.10.1](https://mega.nz/#!0mRGmKLJ!WsxDpVmvpH9eNrROA8kMlnjzgcvq0Oxktpm4pWLTxFg)
   
 
 ## Screenshots
